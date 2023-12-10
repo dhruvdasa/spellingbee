@@ -1,2 +1,2 @@
 # spellingbee
-solver for nyt spelling be
+solver for nyt spelling bee
